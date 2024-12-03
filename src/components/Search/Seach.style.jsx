@@ -6,8 +6,8 @@ export const StyledSearchBar = styled.input`
   background-color: #282424;
   border: 1px solid #ccc;
   border: none;
-  border-radius: 18px;
-  font-size: 16px;
+    font-family: 'Source Code Pro', monospace;
+  font-size: 14pt;
   color: #fff;
   box-sizing: border-box; 
   outline: none;
@@ -18,11 +18,8 @@ export const StyledSearchBar = styled.input`
 
 
 export const SearchBarWrapper = styled.div`
-color: #fff;
-  width: 90%;
-background-color: #111;
-  max-width: 600px; 
-  margin: 0 auto;
-margin-top: 20px;
+  color: #fff;
+
+  background-color: #111;
 
 `;

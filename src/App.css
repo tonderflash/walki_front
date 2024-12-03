@@ -1,11 +1,11 @@
 #root {
-  max-width: 1280px;
-  margin: 0 auto;
+  margin: 0;
   background-color: #111;
 }
 
 body {
   margin: 0px;
+  font-family: "Source Code Pro", monospace;
 }
 
 html {
